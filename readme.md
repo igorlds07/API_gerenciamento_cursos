@@ -52,9 +52,6 @@ Ambos os parâmetros são opcionais.
 ♻️ Atualizar curso
 PUT /curso/{id}
 
-json
-Copiar
-Editar
 {
   "nameCurso": "Spring Boot Avançado",
   "categoryCurso": "Back-end"
