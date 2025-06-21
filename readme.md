@@ -41,7 +41,7 @@ Uma API RESTful desenvolvida em **Java 17 + Spring Boot**, que permite o gerenci
   "categoryCurso": "Curso intensivo de Java"
 }
 
-## 📄 Listar todos os cursos
+ 📄 Listar todos os cursos
 GET /curso
 
 🔍 Filtrar cursos por nome e/ou categoria
